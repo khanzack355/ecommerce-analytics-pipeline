@@ -16,8 +16,18 @@ This is an end-to-end data analytics and machine learning pipeline built using t
 3. Revenue Forecasting:** Engineered a 12-month forward-looking revenue run-rate to assist in warehouse inventory planning.
 
 ## 📊 Executive Dashboard
-(I will add my dashboard screenshots here shortly!)*
-[![Executive Dashboard Screenshot](dashboard/dashboard_screenshot.png)](#) 
+
+### Page 1: Executive Overview
+![Dashboard Page 1](dashboard/1.png)
+
+### Page 2: Customer Segmentation
+![Dashboard Page 2](dashboard/2.png)
+
+### Page 3: Churn Risk Analysis
+![Dashboard Page 3](dashboard/3.png)
+
+### Page 4: Revenue Forecasting
+![Dashboard Page 4](dashboard/4.png)#
 
 ## 📂 Repository Structure
  `/data`: Contains the cleaned and segmented final datasets.
