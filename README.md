@@ -18,7 +18,7 @@ This is an end-to-end data analytics and machine learning pipeline built using t
 ## 📊 Executive Dashboard
 
 ### Page 1: Executive Overview
-![Dashboard Page 1](1.JPG)
+![Dashboard Page 1](dashboard/1.JPG)
 
 ### Page 2: Customer Segmentation
 ![Dashboard Page 2](2.JPG)
