@@ -21,13 +21,13 @@ This is an end-to-end data analytics and machine learning pipeline built using t
 ![Dashboard Page 1](dashboard/1.JPG)
 
 ### Page 2: Customer Segmentation
-![Dashboard Page 2](2.JPG)
+![Dashboard Page 2](dashboard/2.JPG)
 
 ### Page 3: Churn Risk Analysis
-![Dashboard Page 3](3.JPG)
+![Dashboard Page 3](dashboard/3.JPG)
 
 ### Page 4: Revenue Forecasting
-![Dashboard Page 4](4.JPG)#
+![Dashboard Page 4](dashboard/4.JPG)
 
 ## 📂 Repository Structure
  `/data`: Contains the cleaned and segmented final datasets.
