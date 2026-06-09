@@ -18,16 +18,16 @@ This is an end-to-end data analytics and machine learning pipeline built using t
 ## 📊 Executive Dashboard
 
 ### Page 1: Executive Overview
-![Dashboard Page 1](1.png)
+![Dashboard Page 1](1.JPG)
 
 ### Page 2: Customer Segmentation
-![Dashboard Page 2](2.png)
+![Dashboard Page 2](2.JPG)
 
 ### Page 3: Churn Risk Analysis
-![Dashboard Page 3](3.png)
+![Dashboard Page 3](3.JPG)
 
 ### Page 4: Revenue Forecasting
-![Dashboard Page 4](4.png)#
+![Dashboard Page 4](4.JPG)#
 
 ## 📂 Repository Structure
  `/data`: Contains the cleaned and segmented final datasets.
