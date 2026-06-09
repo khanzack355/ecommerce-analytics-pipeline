@@ -17,7 +17,7 @@ This is an end-to-end data analytics and machine learning pipeline built using t
 
 ## 📊 Executive Dashboard
 (I will add my dashboard screenshots here shortly!)*
-[Click here to view the interactive dashboard](#) 
+[![Executive Dashboard Screenshot](dashboard/dashboard_screenshot.png)](#) 
 
 ## 📂 Repository Structure
  `/data`: Contains the cleaned and segmented final datasets.
